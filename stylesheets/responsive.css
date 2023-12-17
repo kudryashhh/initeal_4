@@ -1,0 +1,130 @@
+@media screen and (min-width: 1920px){
+    .grid_first{
+       height: 45vw;
+    }
+    .drops{
+        height: 32vw;
+    }
+    .grid4{
+        height: 42.22vw; 
+    }
+    .grid5{
+        height: 41.5vw;
+    }
+    .grid6{
+       height: 55vw;
+    }
+}
+
+@media screen and (min-width: 1440px){
+  .grid_first{
+       height: 45vw;
+    }
+    .drops{
+        height: 32vw;
+    }
+    .grid4{
+        height: 42.3vw; 
+    }
+    .grid5{
+        height: 41.6vw;
+    }
+    .grid6{
+       height: 55vw;
+    }
+}
+
+@media screen and (min-width: 1366px){
+    .grid_first{
+        height: 45vw;
+     }
+     .drops{
+         height: 32vw;
+     }
+     .grid4{
+         height: 42.3vw; 
+     }
+     .grid5{
+         height: 41.6vw;
+     }
+     .grid6{
+        height: 55vw;
+     }
+     .grid_seven{
+        height: 53.5vw;
+     }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1365px){
+   .grid_first{
+    width: 95.5%;
+    height: 70vw;
+   }
+   .text_initeal{
+    width: 40%;
+    margin-top: -17%;
+   }
+   .initeal{
+    font-size: 12vw;
+    animation: initeal 4s linear infinite;
+   }
+   @keyframes initeal{
+    0%{animation-timing-function: linear; margin-left:-135%;}
+    50%{ animation-timing-function: linear;}
+    100%{margin-left: 250%;}
+   }
+   .chainaya1{
+    width: 95.5%;
+    margin-top: 17%;
+    height: 15vw;
+   }
+   .chainaya{
+    font-size: 12vw;
+   }
+   .ceremonia1{
+    width: 92%;
+    margin-top: 30.5%;
+    height: 15vw;
+   }
+   .ceremonia{
+    font-size: 12vw;
+   }
+   .zvuka1{
+        width: 92%;
+        margin-top: 46.5%;
+        height: 30vw;
+    }
+    .zvuka{
+        font-size: 12vw;
+       }
+    .fourth_screen{
+        display: none;
+    }
+    
+    .drops{
+        height: 43.5vw;
+    }
+    
+    .grid_second{
+        margin-left: -33%;
+        margin-top: 218%;
+        width: 120%;
+    }
+    .grid3{
+        
+    }
+    
+    
+}
+@media screen and (min-width: 768px){
+
+}
+
+@media screen and (min-width: 414px){
+
+}
+
+@media screen and (min-width: 360px){
+
+}
+
