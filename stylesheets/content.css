@@ -7,9 +7,10 @@ body {
     display: block;
 }
 
-@font-face {
-    font-family:'Kharkiv_Tone';
-    src: url(/font/Kharkiv\ Tone\ 04.10.2020.ttf);
+@font-face{
+    font-family: "Kharkiv_Tone";
+    src: local("Kharkiv_Tone"),
+    url(/font/Kharkiv\ Tone\ 04.10.2020.ttf)
 }
 
 .all_content{
